@@ -1,1 +1,9 @@
+[package]
+name = "robot_ai_movement"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = "0.15"
+rand = "0.8"
 
