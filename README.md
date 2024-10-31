@@ -30,7 +30,3 @@ When you run the program:
 - The robot checks its sensor input.
 - It decides whether to move forward or turn left.
 - It updates its position accordingly.
-
-This simple AI model demonstrates how a robot can make decisions based on its environment!
-
-----
