@@ -1,4 +1,4 @@
-# Robot AI Movement :electron: 🤖
+# Robot AI Movement 🤖
 
 This project simulates a simple robot that decides how to move based on sensor input using a basic artificial intelligence model.
 
