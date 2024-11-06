@@ -61,7 +61,7 @@ impl Robot {
     }
 }
 
-fn main() {
+fn robot() {
     let mut robot = Robot::new();
     let sensor_input = 0.3; // Example sensor input
     let weights = initialize_weights();
