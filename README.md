@@ -33,4 +33,4 @@ When you run the program:
 
 ## Roadmap
 
-- [ ] Nvidia support
+- [ ] Nvidia support (Robotic)
